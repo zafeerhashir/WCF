@@ -1,0 +1,10 @@
+E:\vs\Projects\service1\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+E:\vs\Projects\service1\WcfService2\bin\WcfService2.dll.config
+E:\vs\Projects\service1\WcfService2\bin\WcfService2.dll
+E:\vs\Projects\service1\WcfService2\bin\WcfService2.pdb
+E:\vs\Projects\service1\WcfService2\bin\EntityFramework.dll
+E:\vs\Projects\service1\WcfService2\bin\EntityFramework.SqlServer.dll
+E:\vs\Projects\service1\WcfService2\bin\EntityFramework.xml
+E:\vs\Projects\service1\WcfService2\bin\EntityFramework.SqlServer.xml
+E:\vs\Projects\service1\WcfService2\obj\Debug\WcfService2.dll
+E:\vs\Projects\service1\WcfService2\obj\Debug\WcfService2.pdb
